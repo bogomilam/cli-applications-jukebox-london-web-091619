@@ -44,4 +44,9 @@ puts "Goodbye!"
 end
 
 
+def run(songs)
+  
+  
+end
+
   
